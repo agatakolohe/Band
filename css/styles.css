@@ -6,15 +6,34 @@ img {
 .favorite {
   color: darkslategrey;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  margin: 12px;
+  border: 10px solid orange;
+  padding: 4px;
+  background-color: turquoise;
 }
 .sidebar {
   width: 30%;
   float: right;
   background-color: darkslateblue;
+  border: 15px solid plum;
+  padding: 10px;
+  margin: 10px;
 }
 .column {
   width: 200px;
   float: left;
+  background-color: springgreen;
+  border: 15px solid seagreen;
+  padding: 5px;
+  margin: 12px;
+}
+.info {
+  border: 10px solid red;
+  background-color: pink;
+  float: left;
+  padding: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 body {
   background: gainsboro;
