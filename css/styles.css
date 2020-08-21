@@ -1,0 +1,21 @@
+img {
+  float: left;
+  width: 30%;
+  height: auto;
+}
+.favorite {
+  color: darkslategrey;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: darkslateblue;
+}
+.column {
+  width: 200px;
+  float: left;
+}
+body {
+  background: gainsboro;
+}
